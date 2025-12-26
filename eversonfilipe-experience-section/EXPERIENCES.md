@@ -9,7 +9,7 @@
 
 **Technical Implementation Intern | System Implementation and Process Mapping – Kartado Rodovias**  
 *Kartado Tecnologia · Internship*  
-**Sep 2025 – Present · 4 months**  
+**Sep 2025 – Present ·**  
 **Florianópolis, Santa Catarina, Brazil · Remote**  
 *LinkedIn helped me get this job*
 
@@ -83,7 +83,7 @@ Technical Implementation Engineering · Process Automation · EC2 · SOAP APIs �
 
 **Ignite Bootcamp’s Fellow | MVP Development and Prototyping**  
 *Wadhwani Foundation · Leadership Program*  
-**Apr 2025 – Jul 2025 · 4 months**  
+**Apr 2025 – Jul 2025 ·**  
 **India · Remote**
 
 ---
@@ -146,7 +146,7 @@ Product Discovery · Data Analysis · GovTech · MVP Development · Agile Scrum 
 
 **Agile Product Manager Intern | Atlassian Tools (Jira / Confluence) and Scrum & Kanban**  
 *Daus · Internship*  
-**Dec 2024 – Jun 2025 · 7 months**  
+**Dec 2024 – Jun 2025 ·**  
 **Recife, Brazil · Remote**
 
 ---
@@ -208,7 +208,7 @@ Agile Scrum · Kanban · Product Discovery · Lean Thinking · Requirements Anal
 
 **Product Development Intern | Cross-functional Communication (Requirements Gathering)**  
 *TT&T Soluções em Informática Ltda · Internship*  
-**Sep 2024 – Feb 2025 · 6 months**  
+**Sep 2024 – Feb 2025 ·**  
 **São Paulo, Brazil · Remote**
 
 ---
@@ -268,7 +268,7 @@ Product Requirements Documentation (PRD) · B2B SaaS · B2C SaaS · Product Life
 ## Professional Development
 
 **Career Break**  
-**Apr 2022 – Sep 2024 · 2 years 6 months**
+**Apr 2022 – Sep 2024 ·**
 
 ---
 
@@ -316,7 +316,7 @@ Interdisciplinary Communication · Applied Research · Learning Prioritization �
 
 **Retail and Commercial Technical Support | Basic ERP Systems and Customer Support**  
 *Retail store specialized in Technical Support · Full-time*  
-**Apr 2016 – Apr 2022 · 6 years 1 month**  
+**Apr 2016 – Apr 2022 ·**  
 **Pernambuco, Brazil · On-site**
 
 ---
