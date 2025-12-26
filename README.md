@@ -1,3 +1,4 @@
+  ![Views Counter](https://views-counter.vercel.app/badge?pageId=eversonfilipe%2FViews-Counter)
 <div align="center">
 
   <br />
