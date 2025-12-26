@@ -148,7 +148,7 @@ I thrive in complex environments where I can leverage SQL and API Integration to
     * Managed internal ERP data processes and inventory control, serving as the primary technical interface for client support and conflict resolution.
 
 ---
-- <strong>Read the dailed experiences here:</strong> https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops/main/eversonfilipe-experience-section/EXPERIENCES.md
+- <strong>Read the dailed experiences here:</strong> [https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops/main/eversonfilipe-experience-section/EXPERIENCES.md](https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops/blob/main/eversonfilipe-experience-section/EXPERIENCES.md)
 - <strong>View the media of the experiences here:</strong> https://www.linkedin.com/in/eversonfilipe-agile-products-ai/details/experience/
 ---
 
