@@ -147,18 +147,15 @@ I thrive in complex environments where I can leverage SQL and API Integration to
 
 ---
 
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-  ![Views Counter](https://views-counter.vercel.app/badge?pageId=eversonfilipe%2FViews-Counter)
-  <br />
 
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eversonfilipe&theme=default&background=FFFFFF&ring=0077B5&fire=0077B5&currStreakNum=333333&currStreakLabel=0077B5&sideNums=333333&sideLabels=0077B5&hide_border=true" />
-  </a>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eversonfilipe&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eversonfilipe&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eversonfilipe&theme=dracula) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eversonfilipe&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=eversonfilipe&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
 
 </div>
 
@@ -177,6 +174,3 @@ Technical Implementation Specialist, Systems Analyst, Implementation Engineer, P
 <div align="center">
   <p>© 2025 ÉVERSON FILIPE. "Designing the Next Generation."</p>
 </div>
-
-</div>
-
