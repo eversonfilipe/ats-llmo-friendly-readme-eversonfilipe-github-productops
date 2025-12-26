@@ -146,16 +146,13 @@ I thrive in complex environments where I can leverage SQL and API Integration to
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eversonfilipe)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&title_color=0077B5&text_color=333333&bg_color=ffffff&hide_border=true&hide=html,css" />
-  </a>
-
+  ![Views Counter](https://views-counter.vercel.app/badge?pageId=eversonfilipe%2FViews-Counter)
   <br />
 
   <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
@@ -178,5 +175,7 @@ Technical Implementation Specialist, Systems Analyst, Implementation Engineer, P
 
 <div align="center">
   <p>© 2025 ÉVERSON FILIPE. "Designing the Next Generation."</p>
+</div>
+
 </div>
 
