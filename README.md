@@ -1,4 +1,4 @@
-  ![Views Counter](https://views-counter.vercel.app/badge?pageId=eversonfilipe%2FViews-Counter)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=eversonfilipe%2FViews-Counter)
 <div align="center">
 
   <br />
@@ -11,11 +11,11 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=50&color=0077B5&center=true&vCenter=true&width=435&lines=Product+Ops;Data+Engineering;Data+Analytics;JSONLogic;RESTful+APIs;Postman;Agile+Methodologies;(SCRUM)+(KANBAN);Generative+AI;Technical+Documentation;Working+for+results;💻+LET'S+IMPACT+TOGETHER!" alt="Imagem ilustrativa, mostrando um breve carrossel de caracteres e keywords relevantes para o perfil de Everson Filipe (Éverson Filipe), um profissional de tecnologia e Ciência da Computação focado na entrega de resultados, Engenharia de Dados e Implantação Téxcnica das Operações de Produtos Tecnológicos." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=150&color=0077B5&center=true&vCenter=true&width=435&lines=Technical+Implementation;Software+Implementation;Systems+Analysis;Systems+Design;REST+API+Testing;Agile+Methodologies;Data+Integrity;SQL;Technical+Troubleshooting;Business+Systems;ERPs+Configuration;Generative+AI;Technical+Documentation;Working+for+results;💻+LET'S+IMPACT+TOGETHER!" alt="Imagem ilustrativa, mostrando um breve carrossel de caracteres e keywords relevantes para o perfil de Everson Filipe (Éverson Filipe), um profissional de tecnologia e Ciência da Computação focado na entrega de resultados, Engenharia de Dados e Implantação Téxcnica das Operações de Produtos Tecnológicos." />
   </a>
 
   <p align="center">
-    <b>We live in an era of data abundance, but a scarcity of insights. My mission is to close that gap. I am a Data Product Operations Specialist focused on one central goal: transforming raw information into scalable Decision Intelligence.</b>
+    <b>Bridging the gap between business requirements and scalable software execution through rigorous data validation and process automation.</b>
   </p>
 
   <p align="center">
@@ -41,19 +41,19 @@
 
 ### 👨‍💻 About Me
 
-We live in an era of data abundance, but a scarcity of insights. My mission is to close that gap. I am a Data Product Operations Specialist focused on one central goal: transforming raw information into scalable Decision Intelligence.
+Systems Analyst and Technical Implementation Specialist focused on Software Lifecycle and SaaS process automation. I operate at the intersection of business requirements and software execution, configuring high-scalability solutions for Tier-1 infrastructure concessionaires such as Ecovias and Arteris. My technical foundation is built on a Computer Science degree and strategic global leadership through the Aspire Leaders Program.
 
-I don’t just manage data; I operationalize it. Positioned at the critical intersection between Technology (SQL, API, ETL) and Business Strategy, I act as the essential “translator” ensuring engineering efforts are perfectly aligned with organizational goals. My approach goes beyond traditional Business Intelligence—which tells you what happened—to deliver true Decision Intelligence, empowering leaders to know what to do next.
+In just 4 months, I delivered 171 critical technical tasks, representing 32.11% of the team's total output. I utilize Python, Django Admin, and JSONLogic to configure operational units with 100% data integrity and logical validation. Beyond technical execution, I designed reusable Model Units that standardized setup and optimized backend scripts, resulting in real efficiency gains and operational agility.
+
+My approach combines the rigor of Technical Troubleshooting and advanced SQL with Lean Thinking and Scrum agility. I structure workflows within the Atlassian ecosystem (Jira/Confluence) and ClickUp to ensure total traceability and high-quality technical documentation. I have a proven track record of leading technical onboarding for cohorts like GROWUP and SOFTEX, accelerating the integration of new talent into production.
+
+I'm seeking new challenges to lead Digital Transformation and Cloud-Native Implementation projects. I specialize in REST API Integrations (Postman) and AWS EC2 environments, focused on delivering quantifiable results and technical excellence.
 
 #### My Value Proposition:
-- Strategic Alignment: I decode complex business requirements into actionable Agile User Stories for technical teams, ensuring full alignment across stakeholders.
-- Operational Excellence: I build data products that are governed, secure, and scalable, reducing technical debt and accelerating the time-to-insight.
-- Global Leadership: As a Fellow of the Aspire Leaders Program (ALP ’25), founded by faculty from Harvard Business School, i bring an empathetic, globally minded leadership style to cross-functional teams.
-
-I thrive in complex environments where I can leverage SQL and API Integration to build the infrastructure, while using Product Strategy to design the value flow. If you're looking for a partner to turn data chaos into competitive advantage, let’s connect.
+- I thrive in complex environments where I can leverage SQL and API Integration to build the infrastructure, while using Product Strategy to design the value flow. If you're looking for a partner to turn data chaos into competitive advantage, let’s connect.
 
 * 🔭 I’m currently working on **KARTADO | KARTADO ROADS**
-* 🌱 I’m currently learning **DATA ENGINEERING**
+* 🌱 I’m currently learning **SQL WINDOWS FUNCTION**
 * 👯 I’m looking to collaborate on **SOCIAL IMPACT PROJECTS**
 * 💬 Ask me about **SECURE PRODUCT OPERATIONS FOR IMPACT**
 
@@ -148,7 +148,7 @@ I thrive in complex environments where I can leverage SQL and API Integration to
     * Managed internal ERP data processes and inventory control, serving as the primary technical interface for client support and conflict resolution.
 
 ---
-- <strong>Read the dailed experiences here:</strong> [https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops/main/eversonfilipe-experience-section/EXPERIENCES.md](https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops/blob/main/eversonfilipe-experience-section/EXPERIENCES.md)
+- <strong>Read the dailed experiences here:</strong> https://github.com/eversonfilipe/eversonfilipe/tree/master/experiences-section
 - <strong>View the media of the experiences here:</strong> https://www.linkedin.com/in/eversonfilipe-agile-products-ai/details/experience/
 ---
 
