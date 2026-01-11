@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "aboutProject": {
+            "name": "ATS & LLMO-Friendly Readme - Product Operations",
+            "author": "Éverson Filipe",
+            "aboutAuthor": {
+                "email": "eversonfilipe124@gmail.com",
+                "github": "https://github.com/eversonfilipe",
+                "linkedin": "https://www.linkedin.com/in/eversonfilipe-agile-products-ai/"
+            },
+            "projectDescription": {
+                "description": {
+                    "pt-br": "Repositório profissional estruturado e otimizado para sistemas ATS e LLMs, focando em automação de processos SaaS, implantação técnica e integridade de dados através de Config-as-Data Reliability Engineering (CDRE).",
+                    "en": "A professional repository structured and optimized for ATS systems and LLMs, focusing on SaaS process automation, technical implementation, and data integrity through Config-as-Data Reliability Engineering (CDRE)."
+                },
+                "repositoryInfo": {
+                    "repositoryName": "ats-llmo-friendly-readme-eversonfilipe-github-productops",
+                    "repositoryLink": "https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops",
+                    "repositoryKeywords": "Technical Implementation, Product Operations, JSONLogic, Python, Django Admin, SQL Optimization, RESTful APIs, Systems Integration, Data Engineering, Agile Methodologies."
+                },
+                "projectObjetive": {
+                    "pt-br": "Unir requisitos de negócio e execução de software escalável através de validação rigorosa de dados, automação de processos e documentação técnica de alta fidelidade.",
+                    "en": "To bridge the gap between business requirements and scalable software execution through rigorous data validation, process automation, and high-fidelity technical documentation."
+                },
+                "techStack": [
+                    "Python",
+                    "Django Admin",
+                    "JSONLogic",
+                    "PostgreSQL",
+                    "MongoDB",
+                    "REST/SOAP APIs",
+                    "Postman",
+                    "AWS EC2",
+                    "Jira/Confluence",
+                    "ClickUp"
+                ]
+            }
+        }
+    }
+}
