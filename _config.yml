@@ -17,8 +17,8 @@ author:
   twitter: "EversonFilipe_"
   email: "eversonfilipe124@gmail.com"
 
-baseurl: ""
-repository: "eversonfilipe/eversonfilipe"
+baseurl: "https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops"
+repository: "eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops"
 
 plugins:
   - jekyll-seo-tag
