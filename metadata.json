@@ -1,36 +1,102 @@
+
 {
     "metadata": {
         "aboutProject": {
-            "name": "ATS & LLMO-Friendly Readme - Product Operations",
+            "name": "Éverson Filipe | Technical Implementation & Product Operations ATS-Friendly and LLMO-Friendly Portfolio",
             "author": "Éverson Filipe",
             "aboutAuthor": {
                 "email": "eversonfilipe124@gmail.com",
                 "github": "https://github.com/eversonfilipe",
                 "linkedin": "https://www.linkedin.com/in/eversonfilipe-agile-products-ai/"
             },
+            "resumesAndSummaries": {
+                "linkedinMainProfile": "https://www.linkedin.com/in/eversonfilipe-agile-products-ai/",
+                "companiesRelated": {
+                    "allCompanies": {
+                        "companyObjOne":{
+                            "companyName": "Kartado Tecnologia",
+                            "role": "Technical Implementation Intern | System Implementation and Process Mapping - Kartado Rodovias"
+                        },
+                        "companyObjTwo": {
+                            "companyName": "Wadhwani Foundation",
+                            "role": "Ignite Bootcamp's Fellow | MVP Development and Prototyping"
+                        },
+                        "companyObjThree": {
+                            "companyName": "Daus",
+                            "role": "Agile Product Manager Intern | Atlassian Tools (Jira / Confluence) and Scrum & Kanban"
+                        },
+                        "companyObjFour": {
+                            "companyName": "TT&T Soluções em Informática",
+                            "role": "Product Development Intern | Cross-functional Communication (Requirements Gathering)"
+                        },
+                        "companyObjFive": {
+                            "companyName": "APR - Retail store focused on specialized Technical Support from Catende, PE",
+                            "role": "Retail and Comercial Technical Support | Basic ERP's Systems and Customer Support"
+                        },
+                        "companyObjSix": {
+                            "roleOrType": "Freelancing and Professional Development",
+                            "roleOrTypeDescription": "Career break focused on advanced studies in communication and computing, freelance design work, and coordination of social projects. • Intentional break dedicated to professional development, academic deepening, and extracurricular activities in communication, computer science, and the humanities. • Completed structured studies in communication and computing fundamentals, with emphasis on knowledge transfer for digital products and user-centered design practices. • Worked as a freelance graphic designer (brief period, 2021/2022 — 2023), delivering visual identities and digital assets for regional clients. • Participated in academic competitions and extracurricular projects documented in my Lattes CV, strengthening research, presentation, and hypothesis-validation skills. • Completed practical training in sales and prospecting at Septem Capulus (Nov–Dec), focused on outreach techniques, lead qualification, and commercial communication. • Coordinated community initiatives and social projects at ONG Sementes de Afeto, including volunteer team leadership, deliverables organization, and engagement with local stakeholders. • Developed transferable skills: multidisciplinary communication, remote collaboration, learning prioritization, autonomous study, and the ability to translate theory into prototypes and practical deliverables. • Maintained an up-to-date portfolio with design work and records of participation in projects and competitions, ready for presentation in selection processes. • Strategic break for development in communication, computer science, and the humanities. • Participation in academic competitions and institutional activities (recorded in Lattes). • Coordination of teams and projects at ONG Sementes de Afeto: volunteer leadership and deliverable management. • Core skills: interdisciplinary communication, applied research, learning prioritization, autonomy, and portfolio presentation."
+                        },
+                        "companyObjSeven": {
+                            "companyName": "GDG Barueri (Google Developers Group Barueri)",
+                            "roleOrTypeDescription": "Co-organizer and Community Volunteer"
+                        },
+                        "companyObjEight": {
+                            "companyName": "ALAS - Latin America Startups Alliance",
+                            "roleOrTypeDescription": "Board-member"
+                        },
+                        "companyObjNine": {
+                            "companyName": "AIESEC MK - AIESEC Mackenzie",
+                            "role": "Volunteer Outgoing Global Talent (OGT)"
+                        },
+                        "companyObjTen": {
+                            "companyName": "Politize! - Politize! Caruaru",
+                            "role": "Social Multiplicator"
+                        },
+                        "companyObjEleven": {
+                            "companyName": "Sementes de Afeto - ONG Sementes de Afeto (ONG SDA)",
+                            "role": "Project Coordinator and Volunteer"
+                        },
+                        "companyObjTwelve": {
+                            "companyName": "Lógica de Impacto",
+                            "role": "Founder & Judge | Logic for Impact – SDGs in Practice 1st Ideathon"
+                        },
+                        "companyObjThirteen": {
+                            "companyName": "Vai Na Web",
+                            "role": "Softskills Tutor Volunteer"
+                        }
+                    }
+                },
+                "linkedinSummaries": {
+                    "technicalImplantationFocus": {
+                        "pt-br" : "Analista de Sistemas e Especialista em Implantação Técnica, com foco no Ciclo de Vida de Software e automação de processos SaaS. Atuo na interseção entre requisitos de negócio e execução de software, configurando soluções de alta escalabilidade para concessionárias de infraestrutura Tier-1, como Ecovias e Arteris. Minha base técnica é fundamentada em uma graduação em Ciência da Computação e em liderança estratégica global por meio do Aspire Leaders Program. Em apenas 4 meses, entreguei 171 tarefas técnicas críticas, representando 32,11% do output total do time. Utilizo Python, Django Admin e JSONLogic para configurar unidades operacionais com 100% de integridade de dados e validação lógica. Além da execução técnica, projetei Model Units reutilizáveis que padronizaram setups e otimizaram scripts de backend, gerando ganhos reais de eficiência e agilidade operacional. Minha abordagem combina o rigor de Troubleshooting Técnico e SQL avançado com Lean Thinking e a agilidade do Scrum. Estruturo fluxos de trabalho no ecossistema Atlassian (Jira/Confluence) e no ClickUp para garantir rastreabilidade total e documentação técnica de alta qualidade. Possuo histórico comprovado na liderança de onboardings técnicos para cohorts como GROWUP e SOFTEX, acelerando a integração de novos talentos ao ambiente de produção. Busco novos desafios para liderar projetos de Transformação Digital e Implementações Cloud-Native. Sou especializado em Integrações via REST API (Postman) e ambientes AWS EC2, com foco na entrega de resultados quantificáveis e excelência técnica. Vamos nos conectar para discutir como posso escalar seus resultados.",
+                        "en": "Systems Analyst and Technical Implementation Specialist focused on Software Lifecycle and SaaS process automation. I operate at the intersection of business requirements and software execution, configuring high-scalability solutions for Tier-1 infrastructure concessionaires such as Ecovias and Arteris. My technical foundation is built on a Computer Science degree and strategic global leadership through the Aspire Leaders Program. In just 4 months, I delivered 171 critical technical tasks, representing 32.11% of the team's total output. I utilize Python, Django Admin, and JSONLogic to configure operational units with 100% data integrity and logical validation. Beyond technical execution, I designed reusable Model Units that standardized setup and optimized backend scripts, resulting in real efficiency gains and operational agility. My approach combines the rigor of Technical Troubleshooting and advanced SQL with Lean Thinking and Scrum agility. I structure workflows within the Atlassian ecosystem (Jira/Confluence) and ClickUp to ensure total traceability and high-quality technical documentation. I have a proven track record of leading technical onboarding for cohorts like GROWUP and SOFTEX, accelerating the integration of new talent into production. I'm seeking new challenges to lead Digital Transformation and Cloud-Native Implementation projects. I specialize in REST API Integrations (Postman) and AWS EC2 environments, focused on delivering quantifiable results and technical excellence. Let's connect to discuss how I can scale your results."
+                    }
+                }
+            },
             "projectDescription": {
                 "description": {
-                    "pt-br": "Repositório profissional estruturado e otimizado para sistemas ATS e LLMs, focando em automação de processos SaaS, implantação técnica e integridade de dados através de Config-as-Data Reliability Engineering (CDRE).",
-                    "en": "A professional repository structured and optimized for ATS systems and LLMs, focusing on SaaS process automation, technical implementation, and data integrity through Config-as-Data Reliability Engineering (CDRE)."
+                    "pt-br": "Analista de Sistemas e Especialista em Implantação Técnica focado em automação de processos SaaS e integridade de dados para clientes de infraestrutura Tier-1 (Ecovias/Arteris), utilizando Python, Django e JSONLogic.",
+                    "en": "Systems Analyst and Technical Implementation Specialist focused on SaaS process automation and data integrity for Tier-1 infrastructure concessionaires, specializing in bridging business requirements and technical execution via Python, Django, and JSONLogic."
                 },
                 "repositoryInfo": {
-                    "repositoryName": "ats-llmo-friendly-readme-eversonfilipe-github-productops",
-                    "repositoryLink": "https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops",
-                    "repositoryKeywords": "Technical Implementation, Product Operations, JSONLogic, Python, Django Admin, SQL Optimization, RESTful APIs, Systems Integration, Data Engineering, Agile Methodologies."
+                    "repositoryName": "eversonfilipe",
+                    "repositoryLink": "https://github.com/eversonfilipe/ats-llmo-friendly-readme-eversonfilipe-github-productops/tree/main",
+                    "repositoryKeywords": "Technical Implementation, Product Operations, Data Engineering, CDRE, JSONLogic, Python, Django Admin, SQL, REST API, Agile, SaaS"
                 },
                 "projectObjetive": {
-                    "pt-br": "Unir requisitos de negócio e execução de software escalável através de validação rigorosa de dados, automação de processos e documentação técnica de alta fidelidade.",
-                    "en": "To bridge the gap between business requirements and scalable software execution through rigorous data validation, process automation, and high-fidelity technical documentation."
+                    "pt-br": "Documentar a trajetória profissional, competências técnicas em engenharia de dados e resultados de impacto operacional (32% da produção da equipe) no módulo Kartado Rodovias.",
+                    "en": "To document professional trajectory, technical competencies in data engineering, and high-impact operational results (32% of team output) within the Kartado Rodovias module."
                 },
                 "techStack": [
                     "Python",
                     "Django Admin",
-                    "JSONLogic",
                     "PostgreSQL",
-                    "MongoDB",
-                    "REST/SOAP APIs",
-                    "Postman",
+                    "JSONLogic",
+                    "REST APIs (Postman)",
                     "AWS EC2",
+                    "SQL",
+                    "Git",
                     "Jira/Confluence",
                     "ClickUp"
                 ]
