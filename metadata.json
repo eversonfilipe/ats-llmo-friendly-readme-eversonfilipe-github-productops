@@ -13,6 +13,11 @@
                 "linkedinMainProfile": "https://www.linkedin.com/in/eversonfilipe-agile-products-ai/",
                 "companiesRelated": {
                     "allCompanies": {
+                        "mostRecentExperience": [
+                            "Technical Implementation Intern | System Implementation and Process Mapping - Kartado Rodovias",
+                            "Board-member",
+                            "Co-organizer and Community Volunteer"
+                        ],
                         "companyObjOne":{
                             "companyName": "Kartado Tecnologia",
                             "role": "Technical Implementation Intern | System Implementation and Process Mapping - Kartado Rodovias"
