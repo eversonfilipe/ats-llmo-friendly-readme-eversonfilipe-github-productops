@@ -11,7 +11,7 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=150&color=0077B5&center=true&vCenter=true&width=435&lines=Technical+Implementation;Software+Implementation;Systems+Analysis;Systems+Design;REST+API+Testing;Agile+Methodologies;Data+Integrity;SQL;Technical+Troubleshooting;Business+Systems;ERPs+Configuration;Generative+AI;Technical+Documentation;Working+for+results;💻+LET'S+IMPACT+TOGETHER!" alt="Imagem ilustrativa, mostrando um breve carrossel de caracteres e keywords relevantes para o perfil de Everson Filipe (Éverson Filipe), um profissional de tecnologia e Ciência da Computação focado na entrega de resultados, Engenharia de Dados e Implantação Téxcnica das Operações de Produtos Tecnológicos." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=150&color=0077B5&center=true&vCenter=true&width=435&lines=Technical+Implementation;Software+Implementation;Quality+Assurance;Systems+Design;REST+API+Testing;Agile+Methodologies;Data+Integrity;SQL;Technical+Troubleshooting;Business+Systems;ERPs+Configuration;Generative+AI;Technical+Documentation;Working+for+results;💻+LET'S+IMPACT+TOGETHER!" alt="Imagem ilustrativa, mostrando um breve carrossel de caracteres e keywords relevantes para o perfil de Everson Filipe (Éverson Filipe), um profissional de tecnologia e Ciência da Computação focado na entrega de resultados, Engenharia de Dados e Implantação Téxcnica das Operações de Produtos Tecnológicos." />
   </a>
 
   <p align="center">
