@@ -96,6 +96,8 @@
                 "techStack": [
                     "Python",
                     "Django Admin",
+                    "Quality Assurance (QA)",
+                    "Quality Engineering (QE)",
                     "PostgreSQL",
                     "JSONLogic",
                     "REST APIs (Postman)",
