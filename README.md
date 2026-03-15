@@ -41,13 +41,32 @@
 
 ### 👨‍💻 About Me
 
-Systems Analyst and Technical Implementation Specialist focused on Software Lifecycle and SaaS process automation. I operate at the intersection of business requirements and software execution, configuring high-scalability solutions for Tier-1 infrastructure concessionaires such as Ecovias and Arteris. My technical foundation is built on a Computer Science degree and strategic global leadership through the Aspire Leaders Program.
+#### Who Éverson Filipe is
+Specialist in Technical Implementation and Configuration-driven Systems. I transform complex operational requirements into highly scalable architectures (AWS, Python, ERPs) focused on high availability and data integrity. I work at the intersection of software engineering and SaaS operations for Tier-1 clients (such as Ecovias and Arteris). My technical mission is to guarantee 100% data integrity and automation in mission-critical systems, mitigating single points of failure (SPoFs) and reducing entropy in implementation cycles.
 
-In just 4 months, I delivered 171 critical technical tasks, representing 32.11% of the team's total output. I utilize Python, Django Admin, and JSONLogic to configure operational units with 100% data integrity and logical validation. Beyond technical execution, I designed reusable Model Units that standardized setup and optimized backend scripts, resulting in real efficiency gains and operational agility.
+My technical foundation is based on analytical rigor and advanced automation. I architect the workflow integrating advanced problem solving (Troubleshooting), SQL, and agile methodologies (Scrum/Atlassian Ecosystem).
 
-My approach combines the rigor of Technical Troubleshooting and advanced SQL with Lean Thinking and Scrum agility. I structure workflows within the Atlassian ecosystem (Jira/Confluence) and ClickUp to ensure total traceability and high-quality technical documentation. I have a proven track record of leading technical onboarding for cohorts like GROWUP and SOFTEX, accelerating the integration of new talent into production.
+• Cloud and Infrastructure: Active management of identities and policies via AWS IAM, provisioning and access to EC2 instances via AWS CLI, and administration of storage in S3 buckets. 
 
-I'm seeking new challenges to lead Digital Transformation and Cloud-Native Implementation projects. I specialize in REST API Integrations (Postman) and AWS EC2 environments, focused on delivering quantifiable results and technical excellence.
+• Backend Logic: Intensive use of Python, Django Admin, and JSONLogic to configure standardized operational units.
+
+• Technical Mentoring: Leadership in technological onboarding for programs such as GROWUP and SOFTEX, accelerating the integration of new talent into production environments.
+
+#### My Results and Metrics
+• Delivered 528+ validated technical work units (WUs) via ClickUp, optimizing the software lifecycle at Kartado by minimizing manual operational overhead and improving system reliability.
+
+• Designed reusable "Model Units" that optimized backend scripts, generating measurable efficiency gains in setup time.
+
+• I was formally nominated for the Kartado Agility Award (March 2026) due to optimization and critical bug resolution in parameterizations (APIs/JSONLogic), ensuring the uptime of operational applications.
+
+#### Growth and Research Vector
+In addition to Cloud/ERPs execution, I focus my academic development on the cutting edge of Deeptech, focusing on ESG applications, seeking to introduce sustainable and high-impact innovations to the global market.
+
+I am looking for the next "Turning Point" in my career to lead Digital Transformation and Cloud-Native implementations.
+
+Let's connect to discuss how my reliability engineering can scale your infrastructure outcomes?
+
+---
 
 #### My Value Proposition:
 - I thrive in complex environments where I can leverage SQL and API Integration to build the infrastructure, while using Product Strategy to design the value flow. If you're looking for a partner to turn data chaos into competitive advantage, let’s connect.
@@ -56,7 +75,6 @@ I'm seeking new challenges to lead Digital Transformation and Cloud-Native Imple
 * 🌱 I’m currently learning **SQL WINDOWS FUNCTION**
 * 👯 I’m looking to collaborate on **SOCIAL IMPACT PROJECTS**
 * 💬 Ask me about **SECURE PRODUCT OPERATIONS FOR IMPACT**
-
 ---
 
 # 🛠️ Technical Arsenal
